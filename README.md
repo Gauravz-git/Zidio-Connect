@@ -4,4 +4,4 @@ A full-stack web application that connects students and job seekers with compani
 
 
 ### SRS
-📄 [Read Full SRS Document](Internship_Job_Portal_SRS.md)
+📄 [Read Full SRS Document](SRS.pdf)
